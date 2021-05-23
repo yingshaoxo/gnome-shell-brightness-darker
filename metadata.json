@@ -1,0 +1,10 @@
+{
+  "name": "Screen Darker",
+  "description": "Help you do a switch between a darker screen and brighter screen by one click.",
+  "uuid": "screendarker@yingshaoxo.github.com",
+  "version": "0.1",
+  "shell-version": [
+    "3.38"
+  ],
+  "url": "https://github.com/yingshaoxo/gnome-shell-screen-darker"
+}
